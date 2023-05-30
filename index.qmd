@@ -19,5 +19,4 @@ La web de la asignatura puede verse [aquí](https://perezp44.github.io/intro-ds-
 
 El nombre final del trabajo es "La carrera de Cristiano Ronaldo", ya que se trata de un análisis de los hitos conseguidos por este jugador, para algunos, el mejor de la historia, desde diferentes variables.
 
-El trabajo puede verse 
-
+El trabajo puede verse [aquí](blog.html).
